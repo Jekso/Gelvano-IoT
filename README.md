@@ -10,7 +10,7 @@ You can monitor Tempreture readings , pH , Voltage , Ampere and more for a Facto
 - LAMP Stack ( i use PHP for back end ) .
 - Chart.js To draw Charts as Values over time for Factory Machines readings .
 
-# Comming
+# Comming Soon
 - I will add more features like (voltages , amperes , pH and pressure) readings .
 - I will make the android app using Java .
 - I will repeat that project using Raspberry Pi .
